@@ -1,0 +1,15 @@
+{
+    "accounts": {
+        "ETH": [
+        ],
+        "LTC": [
+        ],
+        "XRP": [
+        ],
+        "XBT": [
+        ]
+    },
+    "fiat_currency": "EUR",
+    "local_currency": "DKK",
+    "loglevel": "INFO"
+}

@@ -1,0 +1,8 @@
+krakenex
+pandas
+numpy
+matplotlib
+requests
+seaborn
+pillow
+pykrakenapi
